@@ -1,0 +1,7 @@
+venv/
+.env
+__pycache__/
+*.pyc
+db/sharp.db
+logs/bot.log
+.DS_Store
